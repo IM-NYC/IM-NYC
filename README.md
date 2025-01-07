@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![alt text][1.1]][1]
+<div width="21px">[![alt text][1.1]][1]</div>
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
