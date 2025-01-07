@@ -13,7 +13,7 @@
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 
-[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/large/filled/youtube.svg
+[1.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png
 [2.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.png
 [3.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/x.png
 [4.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/linkedin.png
