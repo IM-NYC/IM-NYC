@@ -22,7 +22,7 @@
 <div align="left">
   <a href="https://github.com/IM-NYC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
   </a>
 </div>
 <p align="center">
