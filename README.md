@@ -12,22 +12,16 @@
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 [1.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.png
+[3.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/x.png
+[4.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/linkedin.webp
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
 
 <!--<div>
 <a href=”https://youtube.com/@your_boyplayz?si=73EIfOAu56mp0CSR"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png" alt=Youtube width=”21px”/></a>
