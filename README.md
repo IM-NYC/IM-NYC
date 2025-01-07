@@ -8,10 +8,25 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!--<div>
 <a href=”https://youtube.com/@your_boyplayz?si=73EIfOAu56mp0CSR"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png" alt=Youtube width=”21px”/></a>
 <a href=”https://www.tiktok.com/@nyc.imranm?is_from_webapp=1&sender_device=pc"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.png" alt=Tiktok width=”21px”/></a>
 </div>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IM-NYC&label=Profile%20views&color=0e75b6&style=flat" alt="IM-NYC" /> </p>
 
