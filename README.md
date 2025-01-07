@@ -1,4 +1,4 @@
-## Hi there 👋
+##⭐️ ABOUT ME ⭐️
 
 <!--
 **IM-NYC/IM-NYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
