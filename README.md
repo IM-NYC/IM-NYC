@@ -1,6 +1,6 @@
 ### ⭐️ ABOUT ME ⭐️
 
-  I have 2 years of experience with C++ and Python. Currently pursuing a high-school diploma.
+  I have 2 years of experience with C++ and Python. Currently looking for a open job position and pursuing a high-school diploma.
 
 - 🔭 I’m currently working on creating a framework for game development on OpenGL.
 - 🌱 I’m currently learning the OpenGL library using C++.
