@@ -6,6 +6,12 @@
 - 🌱 I’m currently learning the OpenGL library using C++.
 - ⚡ Fun fact: I like cats 🐱.
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IM-NYC&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/IM-NYC/github-readme-activity-graph)
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
