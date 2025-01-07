@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[YOUTUBE](https://youtube.com/@your_boyplayz?si=xjwCJtN_nHNR4kUE)" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
+<a href="[YOUTUBE](https://youtube.com/@your_boyplayz?si=xjwCJtN_nHNR4kUE)" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" >YOUTUBE</i>
 </a>
 <a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
 </a>
@@ -19,7 +19,7 @@
 [![Imran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IM-NYC&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/IM-NYC/github-readme-activity-graph)
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/IM-NYC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
