@@ -22,6 +22,13 @@
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
 <!--<div>
 <a href=”https://youtube.com/@your_boyplayz?si=73EIfOAu56mp0CSR"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png" alt=Youtube width=”21px”/></a>
 <a href=”https://www.tiktok.com/@nyc.imranm?is_from_webapp=1&sender_device=pc"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.png" alt=Tiktok width=”21px”/></a>
