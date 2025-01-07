@@ -13,10 +13,10 @@
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 
-[1.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png
-[2.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.png
-[3.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/x.png
-[4.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/linkedin.png
+[1.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.pn
+[2.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.pn
+[3.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/x.pn
+[4.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/linkedin.pn
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
