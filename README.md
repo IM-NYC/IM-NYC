@@ -28,10 +28,10 @@
 [![Imran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IM-NYC&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/IM-NYC/github-readme-activity-graph)
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/IM-NYC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IM-NYC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IM-NYC"/>
   </a>
 </div>
 <p align="center">
