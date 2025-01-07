@@ -10,6 +10,8 @@
 
 <a href=”(https://youtube.com/@your_boyplayz?si=73EIfOAu56mp0CSR)"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png" alt=”Youtube” width=”21px”/></a>
 
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IM-NYC&label=Profile%20views&color=0e75b6&style=flat" alt="IM-NYC" /> </p>
 
 [![Imran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IM-NYC&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/IM-NYC/github-readme-activity-graph)
