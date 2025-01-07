@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div width="21px">[![alt text][1.1]][1]</div>
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
@@ -16,7 +16,7 @@
 [1.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png
 [2.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/tiktok.png
 [3.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/x.png
-[4.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/linkedin.webp
+[4.1]: https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/linkedin.png
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
