@@ -1,4 +1,10 @@
-#### ⭐️ ABOUT ME ⭐️
+### ⭐️ ABOUT ME ⭐️
+
+  I have 2 years of experience with C++ and Python. Currently 
+
+- 🔭 I’m currently working on creating a framework for game development on OpenGL.
+- 🌱 I’m currently learning the OpenGL library using C++.
+- ⚡ Fun fact: I like cats 🐱.
 
 <!--
 **IM-NYC/IM-NYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
