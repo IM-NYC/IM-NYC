@@ -8,10 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[YOUTUBE](https://youtube.com/@your_boyplayz?si=xjwCJtN_nHNR4kUE)" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" >YOUTUBE</i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
+<a href=”https://youtube.com/@your_boyplayz?si=73EIfOAu56mp0CSR"><img align=”left” src=”https://raw.githubusercontent.com/IM-NYC/IM-NYC/main/images/youtube.png" alt=”icon | Youtube” width=”21px”/></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IM-NYC&label=Profile%20views&color=0e75b6&style=flat" alt="IM-NYC" /> </p>
